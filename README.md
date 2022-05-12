@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm İsmail Eren Akkuş
 
-### HW Engineer at Noven Energy and ICT Ltd.Co.
-### Blogger at Electronic Spider
+- HW Engineer at Noven Energy and ICT Ltd.Co.
+- Blogger at Electronic Spider
 
 ### 👨‍💻 About Me
 My interest in electronics started in my high school life. While attned electrical and electronics at university, I have always had a passion for improving oneself beyond school. I take the lead the project teams. I have something in one's sights in the light of the new information.
