@@ -41,7 +41,7 @@ Casper Excalibur Notebook
 - 16 Gb DDR4 RAM
 - 512 Gb Samsung SSD
 
-Outher
+Other
 - Samsung 27inch G3 Monitor
 - Logitech G700 Mouse
 
