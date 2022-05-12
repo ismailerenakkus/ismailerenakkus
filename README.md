@@ -27,6 +27,23 @@ Jul 2019 - Agu 2019
 - Amasya University
 2017-2021
 
+### 🧑‍💻 My Setups
+Monster Notebook
+- Intel Core i7 8750H
+- Nvidia GeForce GTX 1050ti
+- 16 Gb DDR4 RAM
+- 250 Gb Samsung SSD
+- 1 Tb Seagate HDD
+
+Casper Excalibur Notebook
+- Intel Core i7 11800H
+- Nvidia GeForce RTX 3050ti
+- 16 Gb DDR4 RAM
+- 512 Gb Samsung SSD
+
+Outher
+- Samsung 27inch G3 Monitor
+- Logitech G700 Mouse
 
 <!--
 **ismailerenakkus/ismailerenakkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
