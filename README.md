@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm İsmail Eren Akkuş
 
-- HW Engineer at Noven Energy and ICT Ltd.Co.
 - Blogger at Electronic Spider
 
 ### 👨‍💻 About Me
